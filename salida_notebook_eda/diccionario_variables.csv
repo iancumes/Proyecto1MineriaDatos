@@ -1,0 +1,27 @@
+﻿variable,tipo,descripcion,no_nulos,nulos,pct_completitud
+depreg,categorica,Departamento donde se registro el divorcio (codigo INE).,69944,0,100.0
+mupreg,categorica,Municipio donde se registro el divorcio (codigo INE).,69944,0,100.0
+mesreg,numerica discreta,Mes de registro del divorcio.,69944,0,100.0
+anoreg,numerica discreta,Anio de registro del divorcio.,69944,0,100.0
+diaocu,numerica discreta,Dia de ocurrencia del divorcio.,69944,0,100.0
+mesocu,numerica discreta,Mes de ocurrencia del divorcio.,69944,0,100.0
+anoocu,numerica discreta,Anio de ocurrencia del divorcio.,53670,16274,76.73
+depocu,categorica,Departamento de ocurrencia del divorcio (codigo INE).,69944,0,100.0
+mupocu,categorica,Municipio de ocurrencia del divorcio (codigo INE).,69944,0,100.0
+edadhom,numerica discreta,Edad del hombre al momento del divorcio.,32830,37114,46.94
+edadmuj,numerica discreta,Edad de la mujer al momento del divorcio.,32968,36976,47.13
+gethom,categorica,Codigo de grupo etnico del hombre (catalogo INE).,13146,56798,18.8
+getmuj,categorica,Codigo de grupo etnico de la mujer (catalogo INE).,13146,56798,18.8
+nachom,categorica,Codigo de nacionalidad del hombre (catalogo INE).,69943,1,100.0
+nacmuj,categorica,Codigo de nacionalidad de la mujer (catalogo INE).,69943,1,100.0
+eschom,categorica,Codigo de escolaridad del hombre (catalogo INE).,69944,0,100.0
+escmuj,categorica,Codigo de escolaridad de la mujer (catalogo INE).,69944,0,100.0
+ocuhom,categorica,Codigo de ocupacion del hombre (catalogo INE/CIUO).,13146,56798,18.8
+ocumuj,categorica,Codigo de ocupacion de la mujer (catalogo INE/CIUO).,13146,56798,18.8
+puehom,categorica,Codigo de pueblo/pertenencia del hombre.,26793,43151,38.31
+puemuj,categorica,Codigo de pueblo/pertenencia de la mujer.,26793,43151,38.31
+ciuohom,categorica,Codigo CIUO resumido de ocupacion del hombre.,56798,13146,81.2
+ciuomuj,categorica,Codigo CIUO resumido de ocupacion de la mujer.,56798,13146,81.2
+pperhom,categorica,Codigo adicional de pertenencia del hombre.,30005,39939,42.9
+ppermuj,categorica,Codigo adicional de pertenencia de la mujer.,30005,39939,42.9
+origen_archivo,texto,Archivo .sav de origen.,69944,0,100.0
